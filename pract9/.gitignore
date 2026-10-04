@@ -1,0 +1,15 @@
+# Compiled executables
+copy_lowlevel
+copy_stdio
+redirect_output
+redirect_input
+
+# Test input/output files
+test_input.txt
+copied_lowlevel.txt
+copied_stdio.txt
+large_input.bin
+large_lowlevel.bin
+large_stdio.bin
+input.txt
+output.txt
